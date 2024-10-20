@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="XzLA4XY0ZuV79R49Q4_p" name="Страница 1">
+        <mxGraphModel dx="953" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="App-Shell" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="70" width="490" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&amp;nbsp; auth" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="140" width="390" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&amp;nbsp; portal" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="190" width="390" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="profile" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="220" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="places" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="270" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="previewImage" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="320" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Микрофронты и их вложенность" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="274" y="20" width="280" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
